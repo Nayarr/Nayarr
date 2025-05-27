@@ -64,5 +64,5 @@ Je suis étudiant en informatique, passionné par le développement web et le d�
 📬 Envie d’échanger ?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rayan-oughlis/" target="_blank" rel="noreferrer">Linkedin</a>
+  <a href="https://www.linkedin.com/in/oughlis-rayan/" target="_blank" rel="noreferrer">Linkedin</a>
 </p>
